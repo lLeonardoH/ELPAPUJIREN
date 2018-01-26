@@ -1,2 +1,2 @@
-# ELPAPUJIREN
-aprender miggate no goku i(doctrina egoista)
+# Taller conocimiento 
+uso de templates, creacion de formulario y sus validaciones
